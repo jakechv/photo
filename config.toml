@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = "http://photo.chvatal.com/"
 languageCode = "en-us"
-title = "Image gallery - Jacob Chvatal"
+title = "Image Gallery - Jacob Chvatal"
 theme = "oculus"
 
 # Enter your tracking code to enable Google Analytics
