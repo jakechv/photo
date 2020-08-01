@@ -1,0 +1,3 @@
+[submodule "themes/oculus"]
+	path = themes/oculus
+	url = https://github.com/jakechv/oculus.git
